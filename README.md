@@ -40,11 +40,11 @@ Uma API simples para gerenciar estudantes, construída com **Spring Boot** e pen
    
    cd student-api
 
----
+
 📬 Collection do Postman
 Importe a collection abaixo para testar facilmente os endpoints da API:
 
-- 📁 Importe a : [StudentApi.postman_collection.json]
+- 📁 Importe a : [StudentApi.postman_collection.json](https://github.com/thales32k0/StudentManager/blob/main/StudentApi.postman_collection.json)
 
 ---
 
@@ -57,5 +57,39 @@ Importe a collection abaixo para testar facilmente os endpoints da API:
 | PUT    | `/students/{id}`  | Atualizar uma tarefa    |
 | DELETE | `/students/{id}`  | Remover uma tarefa      |
 
+
+3.Execute os métodos `GET`, `POST`, `PUT`, `DELETE` com os seguintes endpoints:
+
+ - GET → `http://localhost:8080/students`
+- POST → `http://localhost:8080/students` (body JSON)
+- PUT → `http://localhost:8080/students/1`
+- DELETE → `http://localhost:8080/students/1`
+
 ---
+
+## 🗃️ Banco de Dados H2
+
+- 🌐 URL: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
+- 🧬 JDBC: `jdbc:h2:mem:testdb`
+- 👤 Usuário: `sa`
+- 🔑 Senha: (deixe em branco)
+
+---
+
+## 👨‍💻 Autor
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/89024257?v=4" width="100"/></td>
+    <td>
+      <b>Thales Eduardo</b><br/>
+      Aprendiz de tecnologia focado em Java ☕<br/>
+      <a href="https://github.com/thales32k0">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📄 Licença
+Este projeto está sob a licença [MIT](LICENSE).
 
