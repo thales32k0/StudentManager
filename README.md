@@ -1,7 +1,7 @@
 # 📚 Student API
 
 [![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring--Boot-3.0-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.5-brightgreen?logo=spring-boot)](https://spring.io/projects/spring-boot)
 [![Postman Tested](https://img.shields.io/badge/Tested%20with-Postman-orange?logo=postman)](https://www.postman.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/thales32k0/StudentManager)
