@@ -4,6 +4,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring--Boot-3.0-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
 [![Postman Tested](https://img.shields.io/badge/Tested%20with-Postman-orange?logo=postman)](https://www.postman.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/thales32k0/StudentManager)
 
 Uma API simples para gerenciar estudantes, construída com **Spring Boot** e pensada para fins de aprendizado.
 
